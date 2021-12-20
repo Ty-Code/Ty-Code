@@ -1,8 +1,7 @@
 
 
 ### Hi 👋
-## I'm a prospective full stack developer, 
-## currently student at the HackYourFuture Coding School/Amsterdam
+## I'm a student at the HackYourFuture Coding School/Amsterdam
 
 
 - 🌱 I’m currently learning JavaScript.
