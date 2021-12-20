@@ -5,6 +5,7 @@
 
 
 &#128313; I’m currently learning JavaScript.
+
 &#128313; You can reach me at tycode0@gmail.com
 
 
