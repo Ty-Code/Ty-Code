@@ -10,7 +10,7 @@
 
 &#128313;   You can reach me at tycode0@gmail.com
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<javascript>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
 
 
