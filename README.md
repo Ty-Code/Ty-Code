@@ -1,7 +1,6 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
 
-### Hi 👋
+#### Hi 👋
 ### I'm a prospective full stack developer, student at the HackYourFuture Coding School/Amsterdam
 
 
