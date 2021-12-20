@@ -1,7 +1,7 @@
 
 
 ### Hi 👋
-&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;
+
 
 ## I'm a student at the HackYourFuture Coding School/Amsterdam
 
