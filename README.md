@@ -4,8 +4,8 @@
 ## I'm a student at the HackYourFuture Coding School/Amsterdam
 
 
-- 🌱 I’m currently learning JavaScript.
-- 📫 You can reach me via ty-code0@gmail.com
+- I’m currently learning JavaScript.
+- You can reach me at tycode0@gmail.com
 
 
 
