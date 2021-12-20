@@ -12,7 +12,7 @@
 
 ![](https://img.shields.io/badge/aa-<WORD_ON_RIGHT>-informational?style=flat&logo=#F7DF1E)
 
-
+JavaScript
 
 <!--
 - 👯 I’m looking to collaborate on ...
