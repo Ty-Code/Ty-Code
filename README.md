@@ -1,10 +1,10 @@
 
 
 ### Hi 👋
-## I'm a prospective full stack developer, student at the HackYourFuture Coding School/Amsterdam
+## I'm a prospective full stack developer, 
+## currently student at the HackYourFuture Coding School/Amsterdam
 
 
-- 🔭 I’m currently working on a demo website.
 - 🌱 I’m currently learning JavaScript.
 - 📫 You can reach me via ty-code0@gmail.com
 
