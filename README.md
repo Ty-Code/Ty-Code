@@ -10,10 +10,9 @@
 
 &#128313;   You can reach me at tycode0@gmail.com
 
-![](https://img.shields.io/badge/aa-<WORD_ON_RIGHT>-informational?style=flat&logo=#F7DF1E)
+https://img.shields.io/badge/aa-<WORD_ON_RIGHT>-informational?style=flat&logo=#F7DF1E)
 
-JavaScript
-
+https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
