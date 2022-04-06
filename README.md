@@ -6,9 +6,9 @@
 ## I'm a student at the HackYourFuture Coding School/Amsterdam
 
 
-&#128313;   I’m currently learning Node.js
+&#128313;   I’m currently learning React.
 
-&#128313;   You can reach me at tycode0@gmail.com
+&#128313;   You can reach me at tycode0@gmail.com.
 
  &nbsp;
  &nbsp;
